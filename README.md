@@ -6,9 +6,13 @@ This repository contains implementations of various Data Structures and Algorith
 
 ```
 algo_dsa_py/
-├── Array/
-│   ├── 1_Duplicate.py
-│   └── 2_Anagram.py
+├── .gitignore
+├── README.md
+└── Array/
+	├── Duplicate.py
+	├── 1_Duplicate.py
+	├── 2_Anagram.py
+	└── 3_TowSum.py
 ```
 
 
